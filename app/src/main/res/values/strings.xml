@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Permissions</string>
+    <string name="generic_permission_title">Permission required</string>
+    <string name="permission_description">To use this feature, please tap on "Allow" once the next pop-up asks for permission to %s</string>
+    <string name="permission_description_permanently">To use this feature, please go to app settings and give Permissions App permission to %s </string>
+    <string name="read_media_images">read image files</string>
+    <string name="open_camera">open camera</string>
+    <string name="access_storage">access storage</string>
+    <string name="read_media_files">read media files</string>
+    <string name="go_to_settings">Go to settings</string>
+    <string name="no">No</string>
+    <string name="alert_ok">Ok</string>
+</resources>
